@@ -1,1 +1,1 @@
-"# Studing" 
+" this is lecturecloud plaform" 
